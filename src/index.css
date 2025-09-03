@@ -1,0 +1,21 @@
+.demo{
+    padding: 10px;
+    margin: 20px;
+    color: white;
+    background-color: rgb(50, 47, 60);
+    width: 400px; 
+    border: 10px solid rgb(243, 4, 4);
+    border-radius: 50px;
+    
+    
+   
+}
+.foods {
+    padding: 10px;
+    margin: 20px;
+    color: rgb(252, 252, 252);
+    background-color: rgb(3, 42, 90);
+    width: 400px;
+    border: 10px solid rgb(232, 252, 4);
+        border-radius: 50px;
+}
