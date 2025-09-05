@@ -1,21 +1,38 @@
 .demo{
     padding: 10px;
-    margin: 20px;
-    color: white;
-    background-color: rgb(50, 47, 60);
-    width: 400px; 
-    border: 10px solid rgb(243, 4, 4);
-    border-radius: 50px;
-    
-    
-   
+    margin: 10px;
+    color: rgb(254, 255, 255);
+    background-color: rgb(65, 1, 64);
+    width: 350px;    
+}
+.shahin, .jojo{
+    display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: stretch;
+        
 }
 .foods {
     padding: 10px;
-    margin: 20px;
+    margin: 10px;
     color: rgb(252, 252, 252);
     background-color: rgb(3, 42, 90);
-    width: 400px;
-    border: 10px solid rgb(232, 252, 4);
-        border-radius: 50px;
+    width: 350px;
+    
+}
+.buttonI{
+    color: rgb(243, 247, 244);
+    background-color: rgb(2, 79, 2);
+    padding: 20px ;
+    margin: 40px;
+    border: none;
+    font-size: 20px;
+}
+.buttonD {
+    color: rgb(243, 247, 244);
+    background-color: rgb(201, 50, 4);
+    padding: 20px;
+    margin: 40px;
+    border: none;
+    font-size: 20px;
 }
